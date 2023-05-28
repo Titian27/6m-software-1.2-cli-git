@@ -39,7 +39,7 @@ h2 {
     background-color: rgb(213, 233, 220);
     margin: 3px;
     padding: 13px;
-    border:  blue solid 5px;
+    border: blue solid 5px;
     border-radius: 20px;
 }
 
@@ -54,24 +54,24 @@ h2 {
     font-family:Arial, Helvetica, sans-serif;
     height: 150px;
     padding: 20px;
-    border: blue solid 5px;
+    border: green solid 5px;
     background-color: rgb(213, 233, 220);
     border-radius: 30px;
 }
 
 .child {
     font-weight:bold;
-    border: mediumred 4px solid;
+    border: mediumgreen 4px solid;
     height: auto;
     margin: 10px;
-    background-color: green;
+    background-color: red;
     border-radius: 30px;
     /* box-sizing: border-box; */
 }
 
 p {
     font-family:Arial, Helvetica, sans-serif;
-    background-color: lightgreen;
+    background-color: lightblue;
     padding: 30px;
     border: blue solid 5px;
     border-radius: 30px;
@@ -81,10 +81,11 @@ li {
     font-family:Arial, Helvetica, sans-serif
 }
 
+img {
+    opacity: 0.8;
+    border-radius: 50%;
+}
 
 .avatar {
     width:120px;
 }
-
-
-
